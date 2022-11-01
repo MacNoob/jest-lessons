@@ -1,0 +1,23 @@
+{
+  "name": "jest-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "do-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacNoob/jest-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacNoob/jest-lessons/issues"
+  },
+  "homepage": "https://github.com/MacNoob/jest-lessons#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
